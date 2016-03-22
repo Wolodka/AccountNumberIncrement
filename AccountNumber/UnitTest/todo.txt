@@ -1,0 +1,14 @@
+﻿create organization and assign number
+
+	getNextNumber with locking other processes
+				unlock processes after updating organization
+
+		NumberAssigner.AssignNewNumber()
+
+done			GetMaxNumber
+
+done					Get Crm Organization Service 
+
+done			IncreaseNumber
+
+done			FormatNumber

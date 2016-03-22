@@ -1,0 +1,14 @@
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\AccountNumber.exe.config
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\AccountNumber.exe
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\AccountNumber.pdb
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Xrm.Client.dll
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Xrm.Client.xml
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Xrm.Sdk.xml
+E:\TrashBin\AccountNumber\AccountNumber\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+E:\TrashBin\AccountNumber\AccountNumber\obj\Debug\AccountNumber.csprojResolveAssemblyReference.cache
+E:\TrashBin\AccountNumber\AccountNumber\obj\Debug\AccountNumber.exe
+E:\TrashBin\AccountNumber\AccountNumber\obj\Debug\AccountNumber.pdb
